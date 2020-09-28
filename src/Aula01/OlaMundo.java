@@ -1,3 +1,5 @@
+package Aula01;
+
 public class OlaMundo { // classe
 
     public static void main(String[] args) { // função principal de execução do código
